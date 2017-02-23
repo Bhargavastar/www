@@ -10,8 +10,8 @@
         versionCode = "10">
          
         
-      <name>Finder</name> 
-    <author>Finder ANDROID </author>
+      <name>AA ANDROID</name> 
+    <author>AA IOS ANDROID </author>
     <description>AA IOS ANDROID Application.</description>
     <icon src="images/AA.png"/>
     <content src="index.html"/> 
@@ -20,11 +20,7 @@
       <rim:permit>read_geolocation</rim:permit>
     </rim:permissions> 
 
-  <!-- <access subdomains="true" origin="*"  />
-    <access origin="http://192.168.2.26:9068/Service.asmx" subdomains="true" />
-    <access origin="http://118.139.160.226:9068/AAWebService.asmx" subdomains="true" />
-    <access origin="http://fnbfileupload.star-knowledge.org/aawebservice.asmx" subdomains="true" />
-    <!--<access origin="http://ppcmobi.starsoft-india.com/aawebservice.asmx" subdomains="true" />-->
+ 
     
    
 
@@ -34,7 +30,7 @@
         
         
          <!-- Core plugins -->
-	<gap:plugin name="org.apache.cordova.battery-status" version="0.2.11"/>
+	 <!-- <gap:plugin name="org.apache.cordova.battery-status" version="0.2.11"/>
     <gap:plugin name="org.apache.cordova.camera" version="0.3.2" />
     <gap:plugin name="org.apache.cordova.media-capture" version="0.3.3" />
     <gap:plugin name="org.apache.cordova.console" version="0.2.11" />
@@ -51,7 +47,7 @@
     <gap:plugin name="org.apache.cordova.media" version="0.2.13" />
     <gap:plugin name="org.apache.cordova.network-information" version="0.2.12" />
     <gap:plugin name="org.apache.cordova.splashscreen" version="0.3.4"  />
-    <gap:plugin name="org.apache.cordova.vibration" version="0.3.11"  /> 
+    <gap:plugin name="org.apache.cordova.vibration" version="0.3.11"  /> -->
 
         
 
